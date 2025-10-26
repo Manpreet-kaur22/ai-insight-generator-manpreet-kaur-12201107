@@ -1,0 +1,4 @@
+[server]
+enableXsrfProtection = false
+maxUploadSize = 200 # Set a max upload size, e.g., 200MB, just in case.
+
